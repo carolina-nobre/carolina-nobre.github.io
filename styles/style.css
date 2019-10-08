@@ -27,3 +27,23 @@ nav a:hover{
     font-weight: 500;
     color:#7E459B;
 }
+
+.habilidades i{
+font-size: 1.8rem;
+}
+
+.tamanho-card{
+    width: 18rem;
+}
+
+.imagem-card{
+    object-fit: cover;
+    object-position: top;
+    height: 40vh;
+}
+
+.imagem-modal{
+    object-fit: cover;
+    height: 100vh;
+    width: 18vw;
+}
